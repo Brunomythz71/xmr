@@ -17,7 +17,7 @@
 "tls_fingerprint" : "",
 
 "pool_address" : "198.251.81.168:777",
-"wallet_address" : "brunokgta@hotmail.com",
+"wallet_address" : "",
 "pool_password" : "",
 
 "call_timeout" : 10,
